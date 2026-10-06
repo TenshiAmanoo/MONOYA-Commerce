@@ -1,4 +1,6 @@
-# MONOYA-Commerce
+<img width="920" height="240" alt="monoya-dark-transparent-2x" src="https://github.com/user-attachments/assets/1bab9bac-d0a7-44eb-a850-6610acc82488" />
+
+# MONOYA E-Commerce
 
 ABOUT MONOYA (物屋) — JAPAN ARCHIVE DIRECT
 
