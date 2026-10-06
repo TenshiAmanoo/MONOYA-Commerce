@@ -1,0 +1,46 @@
+{
+  "brandName": "MONOYA (物屋)",
+  "tagline": "JAPAN ARCHIVE DIRECT",
+  "colors": {
+    "archiveCrimson": {
+      "hex": "#CE1823",
+      "rgb": "rgb(206, 24, 35)",
+      "pantoneApprox": "PMS 186 C"
+    },
+    "spruceNavy": {
+      "hex": "#1C3B44",
+      "rgb": "rgb(28, 59, 68)",
+      "usage": "Wordmark (Light theme)"
+    },
+    "archiveSageTeal": {
+      "hex": "#5A8C8E",
+      "rgb": "rgb(90, 140, 142)",
+      "usage": "Subtitle & Accents"
+    },
+    "darkSpruceTeal": {
+      "hex": "#3E7682",
+      "rgb": "rgb(62, 118, 130)",
+      "usage": "Wordmark (Dark theme)"
+    },
+    "ivoryStitch": {
+      "hex": "#FAF6F2",
+      "rgb": "rgb(250, 246, 242)",
+      "usage": "Disc & Dashed Thread"
+    },
+    "tokyoBlack": {
+      "hex": "#0A0D0E",
+      "rgb": "rgb(10, 13, 14)",
+      "usage": "Dark background"
+    }
+  },
+  "typography": {
+    "wordmark": "Cinzel / Playfair Display Bold Roman Serif (All Caps, 0.16em tracking)",
+    "kanji": "Noto Serif JP / Yu Mincho (物屋)",
+    "subtitleEn": "Inter / Grotesque Sans (All Caps, 0.19em tracking)"
+  },
+  "symbolism": {
+    "badge": "Rounded square crimson patch with white hand-stitched border",
+    "cross": "Archive verification / medical preservation cross signifying authenticated Japan archive goods"
+  },
+  "exportedAt": "2026-10-05T23:21:48.391Z"
+}
